@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abdourahman Abdillahi Abdi</h1>
 <h3 align="center">A passionate web developer from Djibouti</h3>
 
-<img alt="Coder GIF" align="center"  height=450 width=550 src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/ke17ZwdGBToddI8pDm48kPoswlzjSVMM-SxOp7CV59BZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PI6FXy8c9PWtBlqAVlUS5izpdcIXDZqDYvprRqZ29Pw0o/coding-freak.gif" />
+<img alt="Coder GIF" margin="100px"  height=450 width=550 src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/ke17ZwdGBToddI8pDm48kPoswlzjSVMM-SxOp7CV59BZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PI6FXy8c9PWtBlqAVlUS5izpdcIXDZqDYvprRqZ29Pw0o/coding-freak.gif" />
 
 <p align="left"> <a href="https://twitter.com/abdoura07113484" target="blank"><img src="https://img.shields.io/twitter/follow/abdoura07113484?logo=twitter&style=for-the-badge" alt="abdoura07113484" /></a> </p>
 
