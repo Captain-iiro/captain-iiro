@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Abdourahman Abdillahi Abdi</h1>
 <h3 align="center">A passionate web developer from Djibouti</h3>
+![image1](https://github.com/user-attachments/assets/150694d7-07ff-4fd9-9613-5269b0abf07f)
 
-<img alt="Coder GIF" height=250 width=350 src="https://magiccopy.xyz/assets/images/hadder.gif" />
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdoudev22&label=Profile%20views&color=0e75b6&style=flat" alt="abdoudev22" /> </p>
 
