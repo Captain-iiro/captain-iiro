@@ -1,4 +1,4 @@
-[![MasterHead]<img alt="Coder GIF" height=450 width=1000 src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" />](https://rishavchanda.io)
+[![MasterHead]<img alt="Coder GIF" height=350 width=900 src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" />](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Abdourahman Abdillahi Abdi</h1>
 <h3 align="center">A passionate web developer from Djibouti</h3>
 
